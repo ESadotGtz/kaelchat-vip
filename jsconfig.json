@@ -2,12 +2,9 @@
   "compilerOptions": {
     "target": "es6",
     "lib": ["dom", "es6"],
-    "jsx": "react",
+    "jsx": "preserve",
     "module": "esnext",
-    "moduleResolution": "bundler",
-    "strict": false,
-    "noEmit": true,
-    "skipLibCheck": true
+    "moduleResolution": "node"
   },
   "include": ["app/**/*", "pages/**/*", "components/**/*"]
 }
