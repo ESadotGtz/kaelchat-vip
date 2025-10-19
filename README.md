@@ -63,3 +63,4 @@ Estructura del proyecto
 - Interfaz lista en producción
 - Mensajes de “Kael te escucha” llegando a tu correo
 - Botón único de donaciones con 3 métodos
+
