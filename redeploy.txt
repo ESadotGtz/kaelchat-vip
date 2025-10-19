@@ -1,1 +1,1 @@
-Triggering manual redeploy
+trigger vercel rebuild
