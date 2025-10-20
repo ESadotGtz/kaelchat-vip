@@ -64,3 +64,4 @@ Estructura del proyecto
 - Mensajes de “Kael te escucha” llegando a tu correo
 - Botón único de donaciones con 3 métodos
 
+Actualización inicial para despliegue
